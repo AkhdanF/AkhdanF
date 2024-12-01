@@ -1,5 +1,8 @@
 ## Hi there! 👋 I'm Akhdan Farros<br><br>
-### 🎓 About Me<br>- 🏫 3rd Year Student at Padjadjaran University<br>- 📚 Major: Digital Business <br>- 📍 Faculty of Economics and Business<br><br>### 🚀 Current Focus<br>- 🔭 Developing a Flutter app for Product Development Final Exam<br>- 🌱 Learning SQL and Python for Data Analysis<br>- 💻 Passionate about Mobile Development and Digital Innovation<br><br>### 🛠️ Tech Stack<br>- **Languages:** Dart, Flutter, Python, SQL<br>- **Tools:** Android Studio, VS Code, Git<br>- **Frameworks:** Flutter<br><br>### 🌟 Interests<br>- Mobile Application Development<br>- Data Analysis<br>- Digital Business Solutions<br>- Product Innovation<br><br>### 📊 GitHub Stats<br>![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)<br><br>### 🤝 Connect with Me<br>[Tambahkan link LinkedIn]<br>[Tambahkan link Email]
+### 🎓 About Me<br>- 🏫 3rd Year Student at Padjadjaran University<br>- 📚 Major: Digital Business <br>- 📍 Faculty of Economics and Business<br><br>
+### 🚀 Current Focus<br>- 🔭 Developing a Flutter app for Product Development Final Exam<br>- 🌱 Learning SQL and Python for Data Analysis<br>- 💻 Passionate about Mobile Development and Digital Innovation<br><br>
+### 🛠️ Tech Stack<br>- **Languages:** Dart, Flutter, Python, SQL<br>- **Tools:** Android Studio, VS Code, Git<br>- **Frameworks:** Flutter<br><br>
+### 🌟 Interests<br>- Mobile Application Development<br>- Data Analysis<br>- Digital Business Solutions<br>- Product Innovation<br><br>### 🤝 Connect with Me<br>[Tambahkan link LinkedIn]<br>[Tambahkan link Email]
 
 
 ## 🌐 Socials:
