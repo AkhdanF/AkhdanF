@@ -2,7 +2,7 @@
 
 **`Web Developer\Mobile App Developer\Software Developer`**
 
-### 🎓 I am a third-year Digital Business student at Padjadjaran University, Faculty of Economics and Business. Currently, I am focusing on developing a Flutter app for my Portofolio while also learning SQL, Python, and Java. With a strong passion for mobile development and digital innovation, my interests span across mobile application development, data analysis, digital business solutions, software development, and product innovation.
+## 🎓 I am a third-year Digital Business student at Padjadjaran University, Faculty of Economics and Business. Currently, I am focusing on developing a Flutter app for my Portofolio while also learning SQL, Python, and Java. With a strong passion for mobile development and digital innovation, my interests span across mobile application development, data analysis, digital business solutions, software development, and product innovation.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akhdanfarros) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akhdanfarros)
