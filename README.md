@@ -1,5 +1,5 @@
-## Hi there! 👋 I'm Akhdan Farros
-**`Web Developer\Mobile App Developer\Software Developer`**
+## Hi there! 👋 I'm Akhdan Farros **`Web Developer\Mobile App Developer\Software Developer`**
+
 <br/>
 
 🎓 I am a third-year Digital Business student at Padjadjaran University, Faculty of Economics and Business. Currently, I am focusing on developing a Flutter app for my Portofolio while also learning SQL, Python, and Java. With a strong passion for mobile development and digital innovation, my interests span across mobile application development, data analysis, digital business solutions, software development, and product innovation.
