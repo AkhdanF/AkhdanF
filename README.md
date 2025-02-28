@@ -1,4 +1,5 @@
-## Hi there! 👋 I'm Akhdan Farros **`Web Developer\Mobile App Developer\Software Developer`**
+# Hi there! 👋 I'm Akhdan Farros 
+**`Web Developer\Mobile App Developer\Software Developer`**
 
 <br/>
 
