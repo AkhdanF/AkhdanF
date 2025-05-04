@@ -6,7 +6,7 @@
 📌 I am currently undertaking an internship at Telkomsel as an Enterprise Fleet Management Intern, where I contribute to digital transformation initiatives within enterprise mobility solutions.
 <br/>
 <br/>
-🎓 I am a third-year Digital Business student at Padjadjaran University, Faculty of Economics and Business. Currently, I am focusing on developing a Flutter app for my portfolio while also learning SQL, Python, and Java. With a strong passion for mobile development and digital innovation, my interests span across mobile application development, data analysis, digital business solutions, software development, and product innovation.
+🎓 I am a third-year Digital Business student at Padjadjaran University, Faculty of Economics and Business. Currently, I am focusing on developing a Flutter app for my portfolio while also learning Front-End Development with React, Tailwindcss and also SQL, Python, and Java. With a strong passion for mobile development and digital innovation, my interests span across mobile application development, data analysis, digital business solutions, software development, and product innovation.
 
 ## 🌐 Social Media:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akhdanfarros) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akhdanfarros)
