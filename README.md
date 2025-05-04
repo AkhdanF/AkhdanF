@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Akhdan Farros 
-**`Web Developer\Mobile App Developer\Software Developer`**
+**`Web Developer\Mobile App Developer\Software Developer\Enterprise Fleet Management Intern at Telkomsel`**
 
 <br/>
 
